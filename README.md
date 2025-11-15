@@ -10,7 +10,10 @@ https://qa-system-gstx.onrender.com/docs
 
 Example query:
 
-https://qa-system-gstx.onrender.com/ask?q=Where%20is%20Layla%20traveling%20next%3F
+https://qa-system-gstx.onrender.com/ask?q=Where%20does%20Layla%20wants%20to%20book%20a%20villa%3F
+
+https://qa-system-gstx.onrender.com/ask?q=How%20many%20cars%20does%20Vikram%20Desai%20have%3F
+
 
 The service is intentionally **non-hallucinatory**, **conservative**, and **rule-driven**. It returns an answer **only when explicit evidence exists in the dataset**. Otherwise, it safely responds:
 
