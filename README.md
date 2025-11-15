@@ -2,6 +2,16 @@
 
 A robust, deterministic microservice that answers natural-language questions about members using only the messages returned from an external `/messages` API.  
 
+## Live Demo
+
+The service is deployed at:
+
+**[https://your-service-name.onrender.com](https://qa-system-gstx.onrender.com)**
+
+Example query:
+
+https://qa-system-gstx.onrender.com/ask?q=Where%20is%20Layla%20traveling%20next%3F
+
 The service is intentionally **non-hallucinatory**, **conservative**, and **rule-driven**. It returns an answer **only when explicit evidence exists in the dataset**. Otherwise, it safely responds:
 
 ```
