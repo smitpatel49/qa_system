@@ -4,9 +4,9 @@ A robust, deterministic microservice that answers natural-language questions abo
 
 ## Live Demo
 
-The service is deployed at:
+**SWAGER UI**
 
-**https://qa-system-gstx.onrender.com**
+https://qa-system-gstx.onrender.com/docs
 
 Example query:
 
