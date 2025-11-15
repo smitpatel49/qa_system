@@ -159,10 +159,10 @@ GET /ask?q=Your+question+here
 
 ## 1. Correct factual extraction
 **Request:**  
-`Where is Ayesha traveling next?`  
+`Where is Armand going this Saturday?`  
 **Expected:**  
 ```json
-{ "answer": "Dubai" }
+{ "answer": "Milan" }
 ```
 
 ---
