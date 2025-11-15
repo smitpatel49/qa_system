@@ -4,7 +4,7 @@ A robust, deterministic microservice that answers natural-language questions abo
 
 ## Live Demo
 
-**SWAGER UI**
+**SWAGER UI:**
 
 https://qa-system-gstx.onrender.com/docs
 
