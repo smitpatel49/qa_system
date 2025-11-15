@@ -6,7 +6,7 @@ A robust, deterministic microservice that answers natural-language questions abo
 
 The service is deployed at:
 
-**[https://your-service-name.onrender.com](https://qa-system-gstx.onrender.com)**
+**https://qa-system-gstx.onrender.com**
 
 Example query:
 
