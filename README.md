@@ -32,7 +32,6 @@ member_qa_service_full/
 │
 ├── app/
 │   ├── main.py                 # Core FastAPI application (final logic lives here)
-│   └── __pycache__/            # Auto-generated, safe to delete
 │
 ├── scripts/
 │   └── inspect_data.py         # Helper script for dataset analysis
